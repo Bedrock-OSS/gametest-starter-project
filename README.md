@@ -10,7 +10,7 @@ Pre-requisites:
 
 ## Steps
 
-Follow these steps to start using the project, tick them as you go along to help keep track
+Follow these steps to start using the project.
 
 - [ ] - Rename `example-pack.code-workspace` to your own project name, eg. `my-pack.code-workspace`
 - [ ] - Open the renamed `<yourprojectname>.code-workspace` file in VSCode, `File > Open Workspace`
