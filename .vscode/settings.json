@@ -10,6 +10,5 @@
   },
   "editor.formatOnSave":true,
   "editor.tabSize":2,
-  "editor.insertSpaces":true,
-  "prettier.printWidth":150
+  "editor.insertSpaces":true
 }
