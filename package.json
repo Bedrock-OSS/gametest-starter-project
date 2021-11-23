@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/mojang-gametest": "^0.1.0",
-    "@types/mojang-minecraft": "^0.1.0"
+    "@types/mojang-gametest": "^0.1.2",
+    "@types/mojang-minecraft": "^0.1.2"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.29.3",
